@@ -1,0 +1,50 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "UpdateContact";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<h1>İletişim Bilgileri Güncelleme</h1>
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">İletişim Bilgileri</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">İletişim Bilgileri Güncelleme Sayfası</div>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <input type="hidden" asp-for="ContactID" />
+                            <label> İletişim Tercihi </label>
+                            <input type="text" asp-for="Title" class="form-control" />
+                            <br />
+                            <label> Şehir </label>
+                            <input type="text" asp-for="Description" class="form-control" />
+                            <br />
+                            <label> Birincil Telefon</label>
+                            <input type="text" asp-for="Phone1" class="form-control" />
+                            <br />
+                            <label> İkincil Telefon</label>
+                            <input type="text" asp-for="Phone2" class="form-control" />
+                            <br />
+                            <label> Birincil Mail Adresi</label>
+                            <input type="text" asp-for="Email1" class="form-control" />
+                            <br />
+                            <label>İkincil Mail Adresi</label>
+                            <input type="text" asp-for="Email2" class="form-control" />
+                            <br />
+                            <button class="btn btn-outline-success">İletişim Bilgisini Güncelle</button>
+                        </form>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

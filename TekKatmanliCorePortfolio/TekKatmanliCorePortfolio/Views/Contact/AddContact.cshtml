@@ -1,0 +1,47 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "AddContact";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<h1>AddContact</h1>
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">İletişim Bilgileri</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Yeni İletişim Bilgisi Ekleme Sayfası</div>
+                    </div>
+                    <div class="card-body">
+                        <form method="post">
+                            <label> Size En Kolay Nereden Ulaşabiliriz? </label>
+                            <input type="text" asp-for="Title" class="form-control" />
+                            <label> Şehir </label>
+                            <input type="text" asp-for="Description" class="form-control" />
+                            <br />
+                            <label>Birincil Telefon</label>
+                            <input type="text" asp-for="Phone1" class="form-control" />
+                            <br />
+                            <label>İkincil Telefon</label>
+                            <input type="text" asp-for="Phone2" class="form-control" />
+                            <label>Birincil Mail Adresi</label>
+                            <input type="text" asp-for="Email1" class="form-control" />
+                            <br />
+                            <label>İkincil Mail Adresi</label>
+                            <input type="text" asp-for="Email2" class="form-control" />
+                            <br />
+                            <button class="btn btn-outline-primary">Yeni İletişim Bilgisi Ekle</button>
+                        </form>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

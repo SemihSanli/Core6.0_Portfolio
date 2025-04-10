@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\portfolio\\addportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\portfolio\\addportfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\portfolio\\portfoliolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\portfolio\\portfoliolist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\contact\\updatecontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\feature\\addfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\feature\\addfeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\feature\\updatefeature.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\feature\\featurelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\feature\\featurelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\experience\\updateexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\experience\\addexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\experience\\addexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\todolist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|c:\\users\\semih\\source\\repos\\tekkatmanlicoreportfolio\\tekkatmanlicoreportfolio\\views\\shared\\components\\_layoutsidebarpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB389664-F594-47F6-B6A5-1A3337462C1C}|TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio.csproj|solutionrelative:tekkatmanlicoreportfolio\\views\\shared\\components\\_layoutsidebarpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPortfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Portfolio\\AddPortfolio.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Portfolio\\AddPortfolio.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Portfolio\\AddPortfolio.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Portfolio\\AddPortfolio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:09:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Portfolio\\PortfolioList.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Portfolio\\PortfolioList.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Portfolio\\PortfolioList.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Portfolio\\PortfolioList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:09:41.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:09:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Contact\\UpdateContact.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Contact\\UpdateContact.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Contact\\UpdateContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:09:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:09:14.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddFeature.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\AddFeature.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Feature\\AddFeature.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\AddFeature.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Feature\\AddFeature.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:08:04.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateFeature.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\UpdateFeature.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Feature\\UpdateFeature.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\UpdateFeature.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Feature\\UpdateFeature.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:07:33.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeatureList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\FeatureList.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Feature\\FeatureList.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Feature\\FeatureList.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Feature\\FeatureList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:07:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Controllers\\FeatureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:07:15.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Experience\\UpdateExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:06:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Experience\\AddExperience.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Experience\\AddExperience.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Experience\\AddExperience.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Experience\\AddExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:05:34.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\ToDoList\\Index.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\ToDoList\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T18:03:41.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Shared\\Components\\_LayoutSidebarPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "TekKatmanliCorePortfolio\\Views\\Shared\\Components\\_LayoutSidebarPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\TekKatmanliCorePortfolio\\TekKatmanliCorePortfolio\\Views\\Shared\\Components\\_LayoutSidebarPartial\\Default.cshtml",
+              "RelativeToolTip": "TekKatmanliCorePortfolio\\Views\\Shared\\Components\\_LayoutSidebarPartial\\Default.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAGcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T16:11:03.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

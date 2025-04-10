@@ -1,0 +1,17 @@
+﻿@model List<TekKatmanliCorePortfolio.DAL.Entities.Skill>
+
+<div class="col-six tab-full right">
+    <h3>Programa Dilleri & Teknolojiler</h3>
+    @foreach(var item in Model){
+       
+   
+    <ul class="skill-bars">
+       
+        <li>
+                <div class="progress percent75"><span>@item.SkillValue %</span></div>
+            <strong>@item.Title</strong>
+        </li>
+      
+    </ul>
+    }
+</div>
