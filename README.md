@@ -115,7 +115,7 @@ Kullanıcının akademik bilgisini paylaşıp, düzenleme yapabilmesi için Admi
 
 
 # UI Tarafındaki Görseller ise;
-![ImageAlt](https://github.com/SemihSanli/Core6.0_Portfolio/blob/10c0055ed04b47443cf43f37c3831f119bca65dd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-10%20211222.png)
+![ImageAlt](https://github.com/SemihSanli/Core6.0_Portfolio/blob/1afa91eee2cebdc8ff3253a28813e310daa326f4/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-10%20230452.png)
 
 ![ImageAlt](https://github.com/SemihSanli/Core6.0_Portfolio/blob/10c0055ed04b47443cf43f37c3831f119bca65dd/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-10%20211231.png)
 
